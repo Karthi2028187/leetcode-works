@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
