@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -78,10 +79,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +127,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Karthi2028187/leetcode-works/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
