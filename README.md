@@ -58,6 +58,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Karthi2028187/leetcode-works/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Karthi2028187/leetcode-works/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Karthi2028187/leetcode-works/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Karthi2028187/leetcode-works/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
