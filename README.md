@@ -14,6 +14,7 @@
 | [0125-valid-palindrome](https://github.com/Karthi2028187/leetcode-works/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -23,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/Karthi2028187/leetcode-works/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
