@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/Karthi2028187/leetcode-works/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Karthi2028187/leetcode-works/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0977-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@
 | [0088-merge-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Karthi2028187/leetcode-works/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
