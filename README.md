@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
