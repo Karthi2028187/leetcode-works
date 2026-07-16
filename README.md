@@ -42,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +68,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
