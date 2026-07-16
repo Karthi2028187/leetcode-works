@@ -26,6 +26,7 @@
 | [0001-two-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthi2028187/leetcode-works/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,11 +37,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
