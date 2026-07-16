@@ -102,6 +102,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Karthi2028187/leetcode-works/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
