@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
+| [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthi2028187/leetcode-works/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
@@ -67,6 +70,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
