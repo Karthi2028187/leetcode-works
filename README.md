@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Karthi2028187/leetcode-works/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Karthi2028187/leetcode-works/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 ## Hash Table
@@ -40,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Karthi2028187/leetcode-works/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karthi2028187/leetcode-works/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
@@ -70,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Karthi2028187/leetcode-works/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
