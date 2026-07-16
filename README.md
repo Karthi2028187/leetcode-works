@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/Karthi2028187/leetcode-works/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Karthi2028187/leetcode-works/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
