@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthi2028187/leetcode-works/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
@@ -120,6 +121,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthi2028187/leetcode-works/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
@@ -147,6 +149,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthi2028187/leetcode-works/tree/master/0004-median-of-two-sorted-arrays) |
 | [0218-the-skyline-problem](https://github.com/Karthi2028187/leetcode-works/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
