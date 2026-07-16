@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Karthi2028187/leetcode-works/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Karthi2028187/leetcode-works/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Karthi2028187/leetcode-works/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Karthi2028187/leetcode-works/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Karthi2028187/leetcode-works/tree/master/0206-reverse-linked-list) |
 ## Interactive
 |  |
 | ------- |
