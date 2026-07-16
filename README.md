@@ -126,6 +126,7 @@
 | [0035-search-insert-position](https://github.com/Karthi2028187/leetcode-works/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Karthi2028187/leetcode-works/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthi2028187/leetcode-works/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Karthi2028187/leetcode-works/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
@@ -138,6 +139,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Karthi2028187/leetcode-works/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Karthi2028187/leetcode-works/tree/master/0374-guess-number-higher-or-lower) |
 ## Design
 |  |
