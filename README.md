@@ -35,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/Karthi2028187/leetcode-works/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthi2028187/leetcode-works/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Karthi2028187/leetcode-works/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthi2028187/leetcode-works/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Karthi2028187/leetcode-works/tree/master/1732-find-the-highest-altitude) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Karthi2028187/leetcode-works/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
