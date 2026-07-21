@@ -72,6 +72,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Karthi2028187/leetcode-works/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Karthi2028187/leetcode-works/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthi2028187/leetcode-works/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Karthi2028187/leetcode-works/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Karthi2028187/leetcode-works/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Karthi2028187/leetcode-works/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Karthi2028187/leetcode-works/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthi2028187/leetcode-works/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Karthi2028187/leetcode-works/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Karthi2028187/leetcode-works/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -123,6 +125,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Karthi2028187/leetcode-works/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Karthi2028187/leetcode-works/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
